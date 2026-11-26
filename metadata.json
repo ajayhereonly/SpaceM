@@ -1,0 +1,8 @@
+{
+  "name": "Apollo 11-M: Mars Horizon 2089",
+  "description": "Interactive futuristic Apollo 11 spacecraft command cockpit, Earth-to-Mars mission simulator with working antigravity, interactive spacesuit crew, and Mars surface exploration equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
